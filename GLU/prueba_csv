@@ -1,0 +1,21 @@
+﻿Pais,Ciudad,Cantidad,venta,Total,texto_1,texto_2,texto_3,texto_4,texto_5,texto_6
+Colombia,Bogota,2,200,$400 ,a,b,c,d,e,f
+Colombia,Medellin,6,169,"$1,014 ",a,b,c,d,e,f
+Colombia,Cartagena,8,896,"$7,168 ",a,b,c,d,e,f
+Colombia,Barranquilla,10,547,"$5,470 ",a,b,c,d,e,f
+Colombia,Santa marta,13,230,"$2,990 ",a,b,c,d,e,f
+Colombia,Cali,16,741,"$11,560 ",a,b,c,d,e,f
+Colombia,Bucaramanga,18,256,"$4,659 ",a,b,c,d,e,f
+Colombia,San andres,21,630,"$13,104 ",a,b,c,d,e,f
+Colombia,Pasto,23,321,"$7,511 ",a,b,c,d,e,f
+Colombia,Armenia,26,456,"$11,856 ",a,b,c,d,e,f
+Colombia,Zipaquira,29,748,"$21,393 ",a,b,c,d,e,f
+Colombia,Cucuta,31,397,"$12,386 ",a,b,c,d,e,f
+Colombia,Leticia,34,789,"$26,668 ",a,b,c,d,e,f
+Colombia,Rioacha,36,125,"$4,550 ",a,b,c,d,e,f
+Colombia,Ibague,39,321,"$12,519 ",a,b,c,d,e,f
+Colombia,Monteria,42,412,"$17,139 ",a,b,c,d,e,f
+Colombia,Valledupar,44,258,"$11,404 ",a,b,c,d,e,f
+Colombia,Tunja,47,965,"$45,162 ",a,b,c,d,e,f
+Colombia,Neiva,49,375,"$18,525 ",a,b,c,d,e,f
+
